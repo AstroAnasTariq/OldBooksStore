@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OldBooksStore</string>
+    <string name="business_name">Old Books Store</string>
+    <string name="image_description">Book</string>
+    <string name="image_description2">map marker</string>
+    <string name="image_description3">calls</string>
+    <string name="image_description4">website</string>
+    <string name="phone_number">(650) 367–1895</string>
+    <string name="email">info@OldBooks.org</string>
+    <string name="Address">Mountain View, CA 94043</string>
+    <string name="website">http://www.OldBooksStore.org</string>
+    <string name="about_us">About Us</string>
+    <string name="description_text">   We love books, and love our customers .
+        We underrate our book conditions to ensure you are happy , and hand pack our shipments with pride!
+        We also have a large rare and collectible book section . </string>
+</resources>
